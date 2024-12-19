@@ -57,6 +57,6 @@ KVKK kapsamında kullanıcılar, kişisel verileri ile ilgili çeşitli haklara 
 
 **İletişim Bilgileri:**
 - **Yusuf Onat Yılmaz**
-- [Ankara/Çankaya Sokullu Mehmet Paşa Mahallesi, Ninni Sokak, bina No:7, daire 5]
+- [Ankara/Çankaya Mebusevleri Mahallesi, Şerefli Sokak, bina No:18, daire 9]
 - [yusufonatyilmaz@gmail.com]
 - [+90 538 275 09 63]
