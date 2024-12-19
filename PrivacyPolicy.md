@@ -12,7 +12,6 @@ Kullanıcılar Uygulamayı kullanım sırasında işbu gizlilik politikası hük
 ## 2. Kişisel Verilerin Toplanması ve İşlenmesi
 Uygulama Sahibi, kişisel verilerinizi KVKK kapsamında dürüstlük kurallarına uygun olarak, işlenecekleri amaçla bağlantılı ve sınırlı olacak şekilde, ilgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan şartlar ve amaçlar dahilinde işleyecektir. Kişisel verilerinizi şu amaçlarla kullanabiliriz: 
 - Hesap oluşturmak ve güncellemek.
-- “geri dönüştürülebilir ambalaj” teslim alma veya iade etme hizmeti sağlamak.
 - Kullanıcı sözleşmesinin ifası ve hukuki yükümlülüklerin yerine getirilmesi amacıyla, olası bir uyuşmazlık halinde taraflardan birinin diğerine karşı yasal yollara başvurması ve ilgili dosyaların takibi amacıyla.
 - İletişim kurmak ve bildirimler göndermek. 
 - İstatistik ve analizler yapmak.
